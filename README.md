@@ -1,5 +1,9 @@
 # 自己动手写区块链系列
 
+关注此公众号了解更多相关内容
+
+<img src="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA5MzQ2NTY0OA==&mid=2650797427&idx=1&sn=ba11e0bbe90b4776b73412264856e98c&send_time="/>
+
 ### 1.0.区块链基本的了解
 
 参阅：https://www.zhihu.com/question/20792042
